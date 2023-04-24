@@ -1,0 +1,9 @@
+{
+    "token": "token",
+    "prefix": "+",
+    "mongoURI": "url",
+    "developers": [
+        "developer_id_1",
+        "developer_id_2"
+    ]
+}
